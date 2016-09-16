@@ -6,3 +6,5 @@
 .DS_Store
 /build
 /captures
+[remote "origin"]
+url = https://github.com/Mene90/RoommateAPP.git
