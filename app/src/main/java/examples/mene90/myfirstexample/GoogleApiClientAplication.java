@@ -17,7 +17,7 @@ public class GoogleApiClientAplication extends Application {
     public AppCompatActivity activity;
 
     /**
-     * Return the GoogleSignInOption object after the setting
+     * Return the GoogleSignInOption object after the setting d
      */
 
     public GoogleSignInOptions getGoogleSignInOptions(){
